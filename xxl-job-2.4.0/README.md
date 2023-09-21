@@ -14,7 +14,8 @@
             <img src="https://maven-badges.herokuapp.com/maven-central/com.xuxueli/xxl-job/badge.svg" >
         </a>
         <a href="https://github.com/xuxueli/xxl-job/releases">
-         <img src="https://img.shields.io/github/release/xuxueli/xxl-job.svg" >
+         <img src="https://img.shields.io/github/re
+lease/xuxueli/xxl-job.svg" >
         </a>
         <a href="https://github.com/xuxueli/xxl-job/">
             <img src="https://img.shields.io/github/stars/xuxueli/xxl-job" >
